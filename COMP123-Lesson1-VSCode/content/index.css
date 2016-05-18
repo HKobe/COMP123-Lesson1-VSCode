@@ -1,0 +1,63 @@
+/*html {
+	background-color: #FF8000;
+}
+body {
+	width:980px; margin-left:auto; margin-right:auto; background-color: #FFFFFF;
+}
+.Header {
+    border: black medium solid; 
+    
+}
+.Navbar {
+	width: 980px; height: 75px; 
+}
+.Content {
+	border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 930px;
+    border-radius: 25px;
+	}
+	html {
+	background-color: #FF8000;
+}*/
+html {
+	background-color: #FF8000; font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+	width:1024px; margin-left:auto; margin-right:auto;
+}
+.Header {
+	width: 1022px; height: 75px; border: medium black solid; background-color: white;
+}
+.Form {
+	margin-top: 3px;
+}
+.T1 {
+	padding-left: 200px;
+}
+.Content {
+	margin-top: 3px;
+	border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 930px;
+    border-radius: 25px;
+	}
+	
+	.Form {
+	border: 2px solid #a1a1a1;
+    padding: 10px 40px; 
+    background: #dddddd;
+    width: 930px;
+    border-radius: 25px;
+	box-shadow: black 10 10	
+	}
+	
+	legend {
+		font: bold medium cursive;
+	}
+	.Scr2 {
+		width: 800px;
+		padding-left: 75px;
+	}
